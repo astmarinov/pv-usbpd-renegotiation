@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data or the trained models, please cite the associated paper."
+title: "Direct Photovoltaic-to-USB-PD Regulation by Curve-Free Supervisory Current-Limit Renegotiation — supplementary data and models"
+authors:
+  - family-names: Marinov
+    given-names: Angel
+  - family-names: Hinov
+    given-names: Nikolay
+year: 2026
+license: CC-BY-4.0
